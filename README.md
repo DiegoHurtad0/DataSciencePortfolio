@@ -8,6 +8,12 @@
 - **Description**: Here, I have worked on predicting house prices. The project showcases my approach that placed it in the top 12% of the leaderboard for a house price prediction competition.
 - **Packages Used**: Scikit-learn, Pandas, NumPy, XGBoost, LightGBM
 
+| Challenge           | Models                | Ranking        | People Ranking   |
+|---------------------|-----------------------|----------------|---------|
+| House Price Prediction | Stacking Models   | Top 3%        |   Top 97 /  4651 |
+| House Price Prediction | XGBoost, LightGBM    | Top 12%        |     |
+
+
 ## Churn Prediction
 
 - **Repository**: [Churn Prediction](https://github.com/username/Churn-Prediction)
